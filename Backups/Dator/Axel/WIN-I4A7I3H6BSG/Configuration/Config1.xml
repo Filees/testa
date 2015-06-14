@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataProtectionUserConfig SchemaVersion="1">
+  <UserName>Axel</UserName>
+  <FriendlyName>Axel h holtenas</FriendlyName>
+  <PCName>WIN-I4A7I3H6BSG</PCName>
+  <UserId>bd2004ae-67ee-488a-acf3-d86067c77d43</UserId>
+  <Library>
+    <LibraryName>*2112ab0a-c86a-4ffe-a368-0de96e47012e</LibraryName>
+    <Folder>C:\Users\Axel\Music</Folder>
+  </Library>
+  <Library>
+    <LibraryName>SavedPictures</LibraryName>
+    <Folder>C:\Users\Axel\Pictures\Saved Pictures</Folder>
+  </Library>
+  <Library>
+    <LibraryName>*491e922f-5643-4af4-a7eb-4e7a138d8174</LibraryName>
+    <Folder>C:\Users\Axel\Videos</Folder>
+  </Library>
+  <Library>
+    <LibraryName>CameraRoll</LibraryName>
+    <Folder>C:\Users\Axel\Pictures\Camera Roll</Folder>
+  </Library>
+  <Library>
+    <LibraryName>*7b0db17d-9cd2-4a93-9733-46cc89022e7c</LibraryName>
+    <Folder>C:\Users\Axel\Documents</Folder>
+  </Library>
+  <Library>
+    <LibraryName>*a990ae9f-a03b-4e80-94bc-9912d7504104</LibraryName>
+    <Folder>C:\Users\Axel\Pictures</Folder>
+  </Library>
+  <UserFolder>C:\Users\Axel\.android</UserFolder>
+  <UserFolder>C:\Users\Axel\.AndroidStudio1.2</UserFolder>
+  <UserFolder>C:\Users\Axel\.appinventor</UserFolder>
+  <UserFolder>C:\Users\Axel\.config</UserFolder>
+  <UserFolder>C:\Users\Axel\.dbeaver</UserFolder>
+  <UserFolder>C:\Users\Axel\.dbvis</UserFolder>
+  <UserFolder>C:\Users\Axel\.gradle</UserFolder>
+  <UserFolder>C:\Users\Axel\.ssh</UserFolder>
+  <UserFolder>C:\Users\Axel\AndroidStudioProjects</UserFolder>
+  <UserFolder>C:\Users\Axel\Box Sync</UserFolder>
+  <UserFolder>C:\Users\Axel\Searches</UserFolder>
+  <UserFolder>C:\Users\Axel\Videos</UserFolder>
+  <UserFolder>C:\Users\Axel\3D Objects</UserFolder>
+  <UserFolder>C:\Users\Axel\Pictures</UserFolder>
+  <UserFolder>C:\Users\Axel\Desktop</UserFolder>
+  <UserFolder>C:\Users\Axel\OneDrive</UserFolder>
+  <UserFolder>C:\Users\Axel\Contacts</UserFolder>
+  <UserFolder>C:\Users\Axel\Favorites</UserFolder>
+  <UserFolder>C:\Users\Axel\Music</UserFolder>
+  <UserFolder>C:\Users\Axel\Downloads</UserFolder>
+  <UserFolder>C:\Users\Axel\Documents</UserFolder>
+  <UserFolder>C:\Users\Axel\Links</UserFolder>
+  <UserFolder>C:\Users\Axel\Saved Games</UserFolder>
+  <LocalCatalogPath1>C:\Users\Axel\AppData\Local\Microsoft\Windows\FileHistory\Configuration\Catalog1.edb</LocalCatalogPath1>
+  <LocalCatalogPath2>C:\Users\Axel\AppData\Local\Microsoft\Windows\FileHistory\Configuration\Catalog2.edb</LocalCatalogPath2>
+  <StagingArea>
+    <StagingAreaPath>C:\Users\Axel\AppData\Local\Microsoft\Windows\FileHistory\Data</StagingAreaPath>
+    <StagingAreaMaximumCapacity>1599828111</StagingAreaMaximumCapacity>
+    <StagingAreaWarningThreshold>1199871083</StagingAreaWarningThreshold>
+  </StagingArea>
+  <AvailabilityPolicies>
+    <TargetAbsenceTime>5</TargetAbsenceTime>
+    <TimeInUnprotectedState>3</TimeInUnprotectedState>
+  </AvailabilityPolicies>
+  <RetentionPolicies>
+    <RetentionPolicyType>DISABLED</RetentionPolicyType>
+    <MinimumRetentionAge>365</MinimumRetentionAge>
+  </RetentionPolicies>
+  <DPFrequency>3600</DPFrequency>
+  <DPStatus>ENABLED</DPStatus>
+  <Target>
+    <TargetName>\\192.168.1.5\axel\testa\Backups\Dator\</TargetName>
+    <TargetUrl>\\192.168.1.5\axel\testa\Backups\Dator\</TargetUrl>
+    <TargetDriveType>REMOTE</TargetDriveType>
+    <TargetConfigPath1>Axel\WIN-I4A7I3H6BSG\Configuration\Config1.xml</TargetConfigPath1>
+    <TargetConfigPath2>Axel\WIN-I4A7I3H6BSG\Configuration\Config2.xml</TargetConfigPath2>
+    <TargetCatalogPath1>Axel\WIN-I4A7I3H6BSG\Configuration\Catalog1.edb</TargetCatalogPath1>
+    <TargetCatalogPath2>Axel\WIN-I4A7I3H6BSG\Configuration\Catalog2.edb</TargetCatalogPath2>
+    <TargetBackupStorePath>Axel\WIN-I4A7I3H6BSG\Data</TargetBackupStorePath>
+    <TargetWarningThreshold>98</TargetWarningThreshold>
+  </Target>
+</DataProtectionUserConfig>
